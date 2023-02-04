@@ -1,4 +1,4 @@
-# PhpPlaisio: console-stratum
+# PhpPlaisio: Console Stratum
 
 <table>
 <thead>
